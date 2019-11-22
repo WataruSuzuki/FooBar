@@ -1,0 +1,1 @@
+Architectures in the fat file: ../MixedStyle.framework/MixedStyle are: i386 x86_64 armv7 arm64 

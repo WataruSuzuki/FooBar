@@ -10,8 +10,7 @@
 #endif
 #endif
 
-#import "Hoge.h"
 
-FOUNDATION_EXPORT double MixedStyleVersionNumber;
-FOUNDATION_EXPORT const unsigned char MixedStyleVersionString[];
+FOUNDATION_EXPORT double Pods_ExampleForLocalPodVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_ExampleForLocalPodVersionString[];
 
